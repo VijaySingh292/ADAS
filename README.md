@@ -82,8 +82,8 @@ python integration.ipynb
 - 
 ## Results 
 
-![Dashcam Output](Screenshot%202025-04-09%20085949.png)
-![CCTV Output](Screenshot%202025-04-09%20094609.png)
+![Dashcam Output](images/Screenshot%202025-04-09%20085949.png)
+![CCTV Output](images/Screenshot%202025-04-09%20094609.png)
 
 ## Acknowledgments
 - Built with [Ultralytics YOLO](https://github.com/ultralytics/ultralytics), [PyTorch](https://pytorch.org/), [TensorFlow](https://www.tensorflow.org/), and [timm](https://github.com/rwightman/pytorch-image-models).
