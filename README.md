@@ -108,13 +108,11 @@ python integrated_traffic_system.py
 - **Object Detection**: Custom dataset with images and annotations.
 - **Road Surface**: Balanced RSCD dataset with train/val/test splits.
 - **Traffic Prediction**: CSV files with timestamp, day, red light status, and vehicle counts.
+- 
+## Results 
 
-## Contributing
-1. Fork the repository.
-2. Create a feature branch (`git checkout -b feature/new-feature`).
-3. Commit changes (`git commit -m "Add new feature"`).
-4. Push to the branch (`git push origin feature/new-feature`).
-5. Open a Pull Request.
+![Dashcam Output](Screenshot 2025-04-09 085949.png)
+![CCTV Output](Screenshot 2025-04-09 094609.png)
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
