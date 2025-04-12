@@ -111,8 +111,8 @@ python integrated_traffic_system.py
 - 
 ## Results 
 
-![Dashcam Output](Screenshot 2025-04-09 085949.png)
-![CCTV Output](Screenshot 2025-04-09 094609.png)
+![Dashcam Output](Screenshot%202025-04-09%20085949.png)
+![CCTV Output](Screenshot%202025-04-09%20094609.png)
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
